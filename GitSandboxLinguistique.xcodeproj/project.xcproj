@@ -11,6 +11,7 @@
     ],
   },
   "files": [
+    { "path": "Fabienne2View.swift", "target-membership": [ "GitSandboxLinguistique/compile-sources" ] },
     { "kind": "folder", "path": "GitSandboxLinguistique", "target-membership": [ "GitSandboxLinguistique" ] },
     {
       "kind": "group",

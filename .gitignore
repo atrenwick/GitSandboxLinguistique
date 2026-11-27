@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode - état utilisateur et fichiers temporaires
+**/xcuserdata/
+**/*.xcuserstate
+*.moved-aside
+*.xccheckout
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Builds et caches
+DerivedData/
+build/
+.build/
+.swiftpm/
